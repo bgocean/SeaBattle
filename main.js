@@ -166,7 +166,7 @@ const init = () => {
         play.record = 0;
         play.render();
     });
-    console.log(game);
+//    console.log(game);
 
 };
 
